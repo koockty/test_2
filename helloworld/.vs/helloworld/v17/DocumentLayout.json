@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test_git\\test_2\\helloworld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECEFFE5-C800-439F-89FF-969D2391E761}|helloworld.vcxproj|D:\\test_git\\test_2\\helloworld\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9ECEFFE5-C800-439F-89FF-969D2391E761}|helloworld.vcxproj|solutionrelative:\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\test_git\\test_2\\helloworld\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u6E90.cpp",
+              "ToolTip": "D:\\test_git\\test_2\\helloworld\\\u6E90.cpp",
+              "RelativeToolTip": "\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-08T11:34:18.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
